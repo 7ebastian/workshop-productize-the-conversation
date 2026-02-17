@@ -11,7 +11,7 @@ AI-first workshop where participants paste one URL into ChatGPT or Claude and th
 Paste this into a new **ChatGPT** or **Claude** conversation:
 
 ```
-Fetch the workshop at this URL, read the full document, then follow the instructions inside: <RAW_URL>
+Fetch the workshop at this URL, read the full document, then follow the instructions inside: https://raw.githubusercontent.com/7ebastian/workshop-productize-the-conversation/main/course.md
 ```
 
 That's it. The AI reads the course file, picks a character, and walks you through the session.
