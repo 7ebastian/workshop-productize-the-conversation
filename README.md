@@ -23,6 +23,7 @@ That's it. The AI reads the course file, picks a character, and walks you throug
 | File | Purpose |
 |------|---------|
 | `course.md` | Facilitator instructions + full curriculum — fetched by the AI at runtime |
+| `characters/` | Character sheets (Rancher, Deadpan, Ozymandias, Captain, Narrator) — fetched individually when a participant picks one |
 | `README.md` | This file — human-readable overview and quick-start instructions |
 
 ---
