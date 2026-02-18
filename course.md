@@ -34,7 +34,7 @@ You are reading this now. Silently verify you have the complete document: confir
 
 **After both loads succeed:**
 
-Say "Ready? Say yes, or let me know what's up." (In character, if one was chosen.) **STOP. Do not continue until the participant replies.** This is a hard gate. Do not present §EX1, pull data, test tools, or do anything else in this message. The "Ready?" message is the ONLY content of this turn.
+Say "Ready? Say yes, or let me know what's up." (In character, if one was chosen.) This is the ONLY content of this turn — do not add anything else. When the participant replies (e.g. "yes", "ready", "let's go"), the boot sequence is complete. Move directly to §INTRO on the next turn. Do not repeat the "Ready?" message.
 
 **FAILURE PROTOCOL**
 
@@ -57,6 +57,8 @@ Tell Seb or Mary you need help — raise your hand or find them in the room.
 2. If Load 2 failed but Load 1 succeeded: you may continue using the one-liner fallback, but the log must still be shown.
 
 <rule>ANTI-HALLUCINATION: Do NOT claim you have loaded, read, or accessed a file unless you can reference specific content from it. Generating plausible content from your training data is NOT the same as loading the file. If you cannot fetch a URL, say so. Never fake a successful load.</rule>
+
+Once the participant confirms they're ready, the boot sequence is COMPLETE. Do not re-run any part of it.
 </boot-sequence>
 
 ### Flow
