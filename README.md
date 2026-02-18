@@ -17,7 +17,6 @@ If the fetch fails please notify Seb and Mary.
 
 Character files (the course will tell you to fetch one of these):
 - https://raw.githubusercontent.com/7ebastian/workshop-productize-the-conversation/main/characters/rancher.md
-- https://raw.githubusercontent.com/7ebastian/workshop-productize-the-conversation/main/characters/ozymandias.md
 - https://raw.githubusercontent.com/7ebastian/workshop-productize-the-conversation/main/characters/captain.md
 - https://raw.githubusercontent.com/7ebastian/workshop-productize-the-conversation/main/characters/narrator.md
 ```
@@ -31,7 +30,7 @@ That's it. The AI reads the course file, picks a character, and walks you throug
 | File | Purpose |
 |------|---------|
 | `course.md` | Facilitator instructions + full curriculum — fetched by the AI at runtime |
-| `characters/` | Character sheets (Ozymandias, Captain, Rancher, Narrator) — fetched individually when a participant picks one |
+| `characters/` | Character sheets (Captain, Rancher, Narrator) — fetched individually when a participant picks one |
 | `README.md` | This file — human-readable overview and quick-start instructions |
 
 ---
