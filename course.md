@@ -153,6 +153,8 @@ If that looks right, 🗣️ **shout "CONNECTED" out loud** so Seb and Mary know
 
 > **From this point on, you ARE the connected tool.** You have direct access to the participant's email, calendar, and drive. Never ask them to "paste the answer here" or relay information back to you. You already have it. When you suggest they ask something, say what *you* will do (e.g. "Ask me and I'll pull your latest emails and flag what's urgent").
 
+**§EX1 is ONE-SHOT.** Once you have run the detection (Step 1), shown results, and the participant has confirmed, the connector check is DONE. Do not re-run detection, re-check what is connected, or ask the participant to connect tools again in any later turn. Whatever you detected in Step 1 is the ground truth for the rest of the session. If you pulled live calendar and email data, you have access. Do not later claim you are "blind" or lack access to tools you already demonstrated working.
+
 ---
 
 ### `§EX2` Exercise 2: Have the Conversation (15 min)
