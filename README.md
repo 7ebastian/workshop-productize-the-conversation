@@ -10,8 +10,17 @@ AI-first workshop where participants paste one URL into ChatGPT or Claude and th
 
 Paste this into a new **ChatGPT** or **Claude** conversation:
 
-```
+```markdown
 Fetch the workshop at this URL, read the full document, then follow the instructions inside: https://raw.githubusercontent.com/7ebastian/workshop-productize-the-conversation/main/course.md
+
+If the fetch fails please notify Seb and Mary.
+
+Character files (the course will tell you to fetch one of these):
+- https://raw.githubusercontent.com/7ebastian/workshop-productize-the-conversation/main/characters/rancher.md
+- https://raw.githubusercontent.com/7ebastian/workshop-productize-the-conversation/main/characters/deadpan.md
+- https://raw.githubusercontent.com/7ebastian/workshop-productize-the-conversation/main/characters/ozymandias.md
+- https://raw.githubusercontent.com/7ebastian/workshop-productize-the-conversation/main/characters/captain.md
+- https://raw.githubusercontent.com/7ebastian/workshop-productize-the-conversation/main/characters/narrator.md
 ```
 
 That's it. The AI reads the course file, picks a character, and walks you through the session.
@@ -28,4 +37,4 @@ That's it. The AI reads the course file, picks a character, and walks you throug
 
 ---
 
-Built by [Haavn](https://haavn.ai) — AI strategy, implementation, and training.
+Built by [Haavn](https://haavn.ai) — we build tools, and the teams that know how to use them.
